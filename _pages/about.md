@@ -38,3 +38,6 @@ redirect_from:
 * <sub> [2020-present] Ph.D Student in Software Engineering, Peking University </sub>
   * <sub> Supervisor: Prof. Qingni Shen </sub>
 
+### Personal Life
+* <sub> I enjoy sports, particularly running, and playing basketball with friends. </sub>
+
