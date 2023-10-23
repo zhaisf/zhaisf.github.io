@@ -21,15 +21,21 @@ redirect_from:
 - <sub>Our paper "NCL: Textual Backdoor Defense Using Noise-augmented Contrastive Learning" has been accepted by ICASSP 2023.
 
 
+### Competitions
+* <sub> ByteDance Security AI Challenge: Top 2% (Textual Adversarial Attack Track, 2022.10)
+
+  
+### Service
+* <sub> Reviewer for Conferences: ACM MM 2023, AsiaCCS 2023, ECAI 2023, ICASSP 2024, ICICS 2022
+* <sub> Reviewer for Journals: Elsevier Computer & Security
+
+
 ### Prestigious Awards
 * <sub> [2023] Academic Innovation Award (1%), Peking University. 
 * <sub> [2023, 2021]  Shenzhen Stock Exchange Scholarship, Peking University.
 * <sub> [2022]  Award for Academic Excellence, Peking University.
 * <sub> [2021]  Merit Student, Peking University.
-  
-### Service
-* <sub> Reviewer for Conferences: ACM MM 2023, AsiaCCS 2023, ECAI 2023, ICASSP 2024, ICICS 2022
-* <sub> Reviewer for Journals: Elsevier Computer & Security
+
 
 ### Teaching
 * <sub> Development of Artificial Intelligence Applications – Teaching Assistant, Spring 2023.
