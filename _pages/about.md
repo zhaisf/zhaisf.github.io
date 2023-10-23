@@ -11,30 +11,30 @@ redirect_from:
 {% include base_path %}
 
  
-<sub> I am a second-year Ph.D. student at Peking University. My research interests are in the areas of system security, side channel attacks, and adversarial artificial intelligence. In these areas, I am very fortunate to be advised by Prof. [Qingni Shen](https://ss.pku.edu.cn/teacherteam/teacherlist/1634-%E6%B2%88%E6%99%B4%E9%9C%93.html) and [Zhi Zhang](https://zhangzhics.github.io/). Previously, I got my bachelor degree in Hunan University, during which I worked closely with Prof. Jiliang Zhang.
+<sub> I am currently a forth-year Ph.D. student at Peking University and very fortunate to be advised by Prof. [Qingni Shen](https://ss.pku.edu.cn/teacherteam/teacherlist/1634-%E6%B2%88%E6%99%B4%E9%9C%93.html). I have been a visiting Ph.D. student at [TSAIL](https://ml.cs.tsinghua.edu.cn/) advised by Prof. [Hang Su](https://www.suhangss.me/) and Dr. [Yinpeng Dong](https://ml.cs.tsinghua.edu.cn/~yinpeng/) since September, 2022.
 
+My research mainly focues on Trustworthy AI, especially backdoor attacks/defenses and adversarial attacks. Recently, I focus more on the vulnerability and privacy issues of Text-to-Image Models, Large Language Models. I am always willing to work together on interesting projects with external collaborators. Feel free to drop me an email if you are interested in our work, and I am always willing to work together on interesting projects with external collaborators.
 
 
 ### News!
-- <sub>Our paper "SegScope: Probing Fine-grained Interrupts via Architectural Footprints" has been accepted by HPCA 2024.
-- <sub>Our paper "SHISRCNet: Super-resolution And Classification Network For Low-resolution Breast Cancer Histopathology Image" has been accepted by MICCAI 2023.
-- <sub>Runner-up（2/3304）in ECS CloudBuild Developer Competition Track 2: Innovative Application Design and Practice Based on Encryption Computing. 
+- <sub>Our paper "Text-to-image Diffusion Models can be Easily Backdoored through Multimodal Data Poisoning" has been accepted by ACM MM 2023.
+- <sub>Our paper "NCL: Textual Backdoor Defense Using Noise-augmented Contrastive Learning" has been accepted by ICASSP 2023.
 
 
 ### Prestigious Awards
-* <sub> [2022] Runner-up（2/3304）in ECS CloudBuild Developer Competition. 
-* <sub> [2022]  College Graduate Excellence Award, Hunan Province, China.
-* <sub> [2020]  Third Prize in 13th National College Student Information Security Contest (CTF track).
-* <sub> [2019]  National Scholarship, China.
+* <sub> [2023] Academic Innovation Award (1%), Peking University. 
+* <sub> [2023, 2021]  Shenzhen Stock Exchange Scholarship, Peking University.
+* <sub> [2022]  Award for Academic Excellence, Peking University.
+* <sub> [2021]  Merit Sudent, Peking University.
   
 ### Service
-* <sub> Reviewer for Conferences: ICISS 2022, ECAI 2023, ATS 2023
+* <sub> Reviewer for Conferences: ACM MM 2023, AsiaCCS 2023, ECAI 2023, ICASSP 2024, ICICS 2022
+* <sub> Reviewer for Journals: Elsevier Computer & Security
 
 ### Teaching
-* <sub> Operating System and Virtualization Security – Teaching Assistant, Fall 2023.
+* <sub> Development of Artificial Intelligence Applications – Teaching Assistant, Spring 2023.
 
 ### Educational Background
-* <sub> [2022-present] Ph.D Student in Software Engineering, Peking University </sub>
+* <sub> [2020-present] Ph.D Student in Software Engineering, Peking University </sub>
   * <sub> Supervisor: Prof. Qingni Shen </sub>
-* <sub> [2018-2022] B.S. in Information Security, Hunan University </sub>      
 
