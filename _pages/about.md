@@ -17,7 +17,7 @@ redirect_from:
 
 
 ### News!
-- <sub>Our paper "Text-to-image Diffusion Models can be Easily Backdoored through Multimodal Data Poisoning" has been accepted by ACM MM 2023.
+- <sub>Our paper "Text-to-image Diffusion Models can be Easily Backdoored through Multimodal Data Poisoning" has been accepted by ACM MM 2023 (**Oral**).
 - <sub>Our paper "NCL: Textual Backdoor Defense Using Noise-augmented Contrastive Learning" has been accepted by ICASSP 2023.
 
 
