@@ -16,6 +16,5 @@ Please refer to the [Google Scholar](https://scholar.google.com/citations?user=b
 - <sub> [2023] **NCL: Textual Backdoor Defense Using Noise-Augmented Contrastive Learning**  <br/>
    **Shengfang Zhai**, Qingni Shen, Xiaoyi Chen, Weilong Wang, Cong Li, Yuejian Fang, Zhonghai Wu <br/>
    International Conference on Acoustics, Speech, and Signal Processing (**ICASSP**), Rhodes, Greece, 2023 <br/>
-  [arXiv]([https://arxiv.org/abs/2305.04175](https://arxiv.org/abs/2303.01742)https://arxiv.org/abs/2303.01742)
-  
+  [arXiv](https://arxiv.org/abs/2303.01742)
 
