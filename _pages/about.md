@@ -12,7 +12,7 @@ redirect_from:
 
  
 <sub> I am currently a fourth-year Ph.D. student at Peking University and very fortunate to be advised by Prof. [Qingni Shen](https://ss.pku.edu.cn/teacherteam/teacherlist/1634-%E6%B2%88%E6%99%B4%E9%9C%93.html). 
-I have been a visiting Ph.D. student in the Nanyang Technological University, advised by Prof. [Yang Liu](https://personal.ntu.edu.sg/yangliu/).
+I have been a visiting Ph.D. student in the Nanyang Technological University advised by Prof. [Yang Liu](https://personal.ntu.edu.sg/yangliu/) since January, 2024.
  
 <sub> I was a research intern at [TSAIL](https://ml.cs.tsinghua.edu.cn/) advised by Prof. [Hang Su](https://www.suhangss.me/) and Dr. [Yinpeng Dong](https://ml.cs.tsinghua.edu.cn/~yinpeng/) from September, 2022 to October, 2023.
 
