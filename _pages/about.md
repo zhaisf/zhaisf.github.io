@@ -17,6 +17,7 @@ redirect_from:
 
 
 ### News!
+- <sub>Our paper "Security Equivalence Assessment Between Cloud Standards by Mapping of Control Items" has been accepted by ICASSP 2024. 
 - <sub>Our paper "Text-to-image Diffusion Models can be Easily Backdoored through Multimodal Data Poisoning" has been accepted by ACM MM 2023 (**Oral**).
 - <sub>Our paper "NCL: Textual Backdoor Defense Using Noise-augmented Contrastive Learning" has been accepted by ICASSP 2023.
 
@@ -31,7 +32,7 @@ redirect_from:
 
 
 ### Prestigious Awards
-* <sub> [2023] Academic Innovation Award (1%), Peking University. 
+* <sub> [2023] Academic Innovation Award (Top 1%), Peking University. 
 * <sub> [2023, 2021]  Shenzhen Stock Exchange Scholarship, Peking University.
 * <sub> [2022]  Award for Academic Excellence, Peking University.
 * <sub> [2021]  Merit Student, Peking University.
