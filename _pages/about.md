@@ -30,8 +30,13 @@ I have been a visiting Ph.D. student in the Nanyang Technological University adv
 
   
 ### Service
-* <sub> Reviewer for Conferences: CVPR, ACM MM, AsiaCCS, ECAI, ICASSP, ICICS
-* <sub> Reviewer for Journals: Computer & Security
+* <sub> Reviewer for Conferences: 
+
+  <sub> CVPR, ACM MM, AsiaCCS, ECAI, ICASSP, ICICS
+  
+* <sub> Reviewer for Journals:
+  
+  <sub> IEEE TNNLS, Elsevier Computer & Security
 
 
 ### Prestigious Awards
