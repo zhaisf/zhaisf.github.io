@@ -11,6 +11,7 @@ Please refer to the [Google Scholar](https://scholar.google.com/citations?user=b
 - <sub> [2024] **Security Equivalence Assessment Between Cloud Standards by Mapping of Control Items**  <br/>
    Yuchen Wong, Chen Yan, **Shengfang Zhai**, Cong Li, Qingni Shen <br/>
    IEEE International Conference on Acoustics, Speech, and Signal Processing (**ICASSP**), Seoul, Korea, 2024 <br/>
+   [Url](https://ieeexplore.ieee.org/abstract/document/10448244)
 
 - <sub> [2023] **Text-to-image diffusion models can be easily backdoored through multimodal data poisoning**  (**<font color='red'>Oral</font>**) <br/>
    **Shengfang Zhai**, Yinpeng Dong, Qingni Shen, Shi Pu, Yuejian Fang, Hang Su <br/>
@@ -21,4 +22,9 @@ Please refer to the [Google Scholar](https://scholar.google.com/citations?user=b
    **Shengfang Zhai**, Qingni Shen, Xiaoyi Chen, Weilong Wang, Cong Li, Yuejian Fang, Zhonghai Wu <br/>
    IEEE International Conference on Acoustics, Speech, and Signal Processing (**ICASSP**), Rhodes, Greece, 2023 <br/>
   [arXiv](https://arxiv.org/abs/2303.01742)
+
+- <sub> [2022] **Kallima: A Clean-Label Framework for Textual Backdoor Attacks**  <br/>
+   Xiaoyi Chen, Yinpeng Dong, Zeyu Sun, **Shengfang Zhai**, Qingni Shen, Zhonghai Wu <br/>
+   European Symposium on Research in Computer Security (**ESORICS**), Copenhagen, Denmark, 2022, Online <br/>
+   [arXiv](https://arxiv.org/abs/2206.01832)
 
