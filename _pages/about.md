@@ -20,6 +20,7 @@ I have been a visiting Ph.D. student in the Nanyang Technological University adv
 
 
 ### News!
+- <sub> I will serve as a AEC member of CCS 2024.
 - <sub>Our paper "Security Equivalence Assessment Between Cloud Standards by Mapping of Control Items" has been accepted by ICASSP 2024. 
 - <sub>Our paper "Text-to-image Diffusion Models can be Easily Backdoored through Multimodal Data Poisoning" has been accepted by ACM MM 2023 (<font color='red'>Oral</font>).
 - <sub>Our paper "NCL: Textual Backdoor Defense Using Noise-augmented Contrastive Learning" has been accepted by ICASSP 2023.
@@ -32,12 +33,15 @@ I have been a visiting Ph.D. student in the Nanyang Technological University adv
 ### Service
 * <sub> Reviewer for Conferences: 
 
-  <sub> CVPR, ACM MM, AsiaCCS, ECAI, ICASSP, ICICS
+  <sub> CVPR, ACM MM, AsiaCCS, ECAI, ICASSP, ICICS,
   
 * <sub> Reviewer for Journals:
   
-  <sub> IEEE TNNLS, Elsevier Computer & Security
+  <sub> IEEE TNNLS, Elsevier Computer & Security,
 
+* <sub> Committee Members:
+
+  <sub> CCS AEC 2024,
 
 ### Prestigious Awards
 * <sub> [2023] Academic Innovation Award (Top 1%), Peking University. 
