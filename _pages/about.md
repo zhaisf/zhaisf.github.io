@@ -37,7 +37,7 @@ I have been a visiting Ph.D. student in the Nanyang Technological University adv
   
 * <sub> Reviewer for Journals:
   
-  <sub> IEEE TNNLS, Elsevier Computer & Security,
+  <sub> IEEE TPAMI, IEEE TNNLS, Elsevier Computer & Security,
 
 * <sub> Committee Members:
 
