@@ -41,7 +41,7 @@ I have been a visiting Ph.D. student in the Nanyang Technological University adv
 
 * <sub> Reviewer for Conferences: 
 
-  <sub> CVPR, ACM MM, AsiaCCS, ECAI, ICASSP, ICICS,
+  <sub> CVPR, ACM MM, ACL, AsiaCCS, ECAI, ICASSP, ICICS,
   
 
 ### Prestigious Awards
@@ -55,9 +55,15 @@ I have been a visiting Ph.D. student in the Nanyang Technological University adv
 * <sub> Development of Artificial Intelligence Applications – Teaching Assistant, Spring 2023.
 
 ### Educational Background
-* <sub> [2020-present] Ph.D. Student in Software Engineering, Peking University </sub>
+* <sub> [2020-present] Ph.D. Student in Software Engineering, Peking University  </sub>
   * <sub> Supervisor: Prof. Qingni Shen </sub>
+* <sub> [2016-2020] B.S. in Computer Science and Technology (_Honored Program_),  China Agricultural University (CAU)  </sub>
+
 
 ### Personal Life
 * <sub> I enjoy sports, particularly running, and playing basketball with friends. </sub>
+
+### Friend Links
+* [Xin Zhang](https://zhangxin00.github.io/)
+* [Junkai Liang](https://liang-junkai.github.io/)
 
