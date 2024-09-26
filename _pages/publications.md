@@ -17,7 +17,7 @@ Please refer to the [Google Scholar](https://scholar.google.com/citations?user=b
 
 - <sub> [2024] **Membership Inference on Text-to-Image Diffusion Models via Conditional Likelihood Discrepancy**  <br/>
    **Shengfang Zhai**, Huanran Chen, Yinpeng Dong, Jiajun Li, Qingni Shen, Yansong Gao, Hang Su, Yang Liu <br/>
-   NeurIPS 2024 <br/>
+   **NeurIPS 2024** <br/>
    [URL](https://arxiv.org/abs/2405.14800)
 
 - <sub> [2024] **Security Equivalence Assessment Between Cloud Standards by Mapping of Control Items**  <br/>
