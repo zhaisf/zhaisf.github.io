@@ -27,8 +27,6 @@ I have been a visiting Ph.D. student at the Nanyang Technological University adv
 - <sub>Our paper "NCL: Textual Backdoor Defense Using Noise-augmented Contrastive Learning" has been accepted by ICASSP 2023.
 
 
-### Competitions
-* <sub> ByteDance Security AI Challenge: Top 2% (Textual Adversarial Attack Track, 2022.10)
 
   
 ### Service
@@ -43,7 +41,13 @@ I have been a visiting Ph.D. student at the Nanyang Technological University adv
 * <sub> Reviewer for Conferences: 
 
   <sub> ICLR, CVPR, ACM MM, AAAI, ACL, AsiaCCS, ECAI, ICASSP, ICICS,
-  
+
+### Teaching
+* <sub> Development of Artificial Intelligence Applications – Teaching Assistant, Spring 2023.
+
+
+### Competitions
+* <sub> ByteDance Security AI Challenge: Top 2% (Textual Adversarial Attack Track, 2022.10)
 
 ### Prestigious Awards
 * <sub> [2023] Academic Innovation Award (Top 1%), Peking University. 
@@ -52,12 +56,15 @@ I have been a visiting Ph.D. student at the Nanyang Technological University adv
 * <sub> [2021]  Merit Student, Peking University.
 
 
-### Teaching
-* <sub> Development of Artificial Intelligence Applications – Teaching Assistant, Spring 2023.
 
-### Educational Background
+
+### Bio
 * <sub> [2020-present] Ph.D. Student in Software Engineering, Peking University  </sub>
   * <sub> Supervisor: Prof. Qingni Shen </sub>
+* <sub> [2024.9-present] Research Assistant, National University of Singapore  </sub>
+  * <sub> Supervisor: Prof. Jiaheng Zhang </sub>
+* <sub> [2023.12-2024.8] Visiting Ph.D. Student, Nanyang Technological University  </sub>
+  * <sub> Supervisor: Prof. Yang Liu </sub>
 * <sub> [2016-2020] B.S. in Computer Science and Technology (_Honored Program_),  China Agricultural University (CAU)  </sub>
 
 
