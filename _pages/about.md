@@ -23,7 +23,7 @@ I have been a visiting Ph.D. student at the Nanyang Technological University adv
 - <sub>Our paper "Membership Inference on Text-to-Image Diffusion Models via Conditional Likelihood Discrepancy" has been accepted by **NeurIPS 2024**. See you in Vancouver! 
 - <sub> I will serve as an AEC member of CCS 2024.
 - <sub>Our paper "Security Equivalence Assessment Between Cloud Standards by Mapping of Control Items" has been accepted by ICASSP 2024. 
-- <sub>Our paper "Text-to-image Diffusion Models Can be Easily Backdoored through Multimodal Data Poisoning" has been accepted by ACM MM 2023 (<font color='red'>Oral</font>).
+- <sub>Our paper "Text-to-image Diffusion Models Can be Easily Backdoored through Multimodal Data Poisoning" has been accepted by **ACM MM 2023** (<font color='red'>Oral</font>).
 - <sub>Our paper "NCL: Textual Backdoor Defense Using Noise-augmented Contrastive Learning" has been accepted by ICASSP 2023.
 
 
