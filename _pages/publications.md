@@ -17,7 +17,7 @@ Please refer to the [Google Scholar](https://scholar.google.com/citations?user=b
 
 - <sub> [2024] **Membership Inference on Text-to-Image Diffusion Models via Conditional Likelihood Discrepancy**  <br/>
    **Shengfang Zhai**, Huanran Chen, Yinpeng Dong, Jiajun Li, Qingni Shen, Yansong Gao, Hang Su, Yang Liu <br/>
-   Advances in Neural Information Processing Systems (**NeurIPS 2024**), Vancouver, Canada, 2024  <br/>
+   Advances in Neural Information Processing Systems (**NeurIPS**), Vancouver, Canada, 2024  <br/>
    [ArXiv](https://arxiv.org/abs/2405.14800)
 
 
