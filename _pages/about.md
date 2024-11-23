@@ -18,6 +18,8 @@ I have been a visiting Ph.D. student at the Nanyang Technological University adv
 
 <sub> My research mainly focuses on Trustworthy AI, especially backdoor attacks/defenses and adversarial attacks. **Recently, I focus more on the vulnerability and privacy issues of Text-to-Image Models and large Language Models**. Feel free to drop me an email if you are interested in our work, and I am always willing to work together on interesting projects with external collaborators.
 
+<sub> _<font color='red'>I am actively seeking for a postdoc / full-time researcher position. Please feel free to contact me at shengfang.zhai AT gmail.com.</font>_
+
 
 ### News!
 - <sub>Our paper "Membership Inference on Text-to-Image Diffusion Models via Conditional Likelihood Discrepancy" has been accepted by **NeurIPS 2024**. See you in Vancouver! 
