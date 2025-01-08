@@ -16,9 +16,9 @@ redirect_from:
  
 <sub>  I was a visiting Ph.D. student at the Nanyang Technological University advised by Prof. [Yang Liu](https://personal.ntu.edu.sg/yangliu/) from December 2023 to August 2024.
 
-<sub> My research mainly focuses on Trustworthy AI, especially backdoor attacks/defenses and adversarial attacks. **Recently, I focus more on the vulnerability and privacy issues of Text-to-Image Models and large Language Models**. Feel free to drop me an email if you are interested in our work, and I am always willing to work together on interesting projects with external collaborators.
+<sub> My research mainly focuses on Trustworthy AI. **Recently, I focus more on the security, privacy and copyright issues associated with generative models, particularly diffusion models and large language models (LLMs)**. Feel free to drop me an email if you are interested in our work, and I am always willing to work together on interesting projects with external collaborators.
 
-<sub> <font color='red'>I am actively seeking for a postdoc / full-time researcher position starting in the fall/winter of 2025. Please feel free to contact me at shengfang.zhai AT gmail.com.</font>
+<sub> <font color='red'>I am actively seeking for a researcher position starting in the winter of 2025. Please feel free to contact me at shengfang.zhai AT gmail.com.</font>
 
 
 ### News!
