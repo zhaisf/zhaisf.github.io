@@ -60,17 +60,17 @@ I am currently a fifth-year Ph.D. student at Peking University and very fortunat
 
 
 ### Bio
-*    [2020-present] Ph.D. Student in Software Engineering, Peking University  </sub>
-  *    Supervisor: Prof. Qingni Shen </sub>
-*    [2024.9-present] Research Assistant, National University of Singapore  </sub>
-  *    Supervisor: Prof. Jiaheng Zhang </sub>
-*    [2023.12-2024.8] Visiting Ph.D. Student, Nanyang Technological University  </sub>
-  *    Supervisor: Prof. Yang Liu </sub>
-*    [2016-2020] B.S. in Computer Science and Technology (_Honored Program_),  China Agricultural University (CAU)  </sub>
+*    [2020-present] Ph.D. Student in Software Engineering, Peking University   
+  *    Supervisor: Prof. Qingni Shen  
+*    [2024.9-present] Research Assistant, National University of Singapore   
+  *    Supervisor: Prof. Jiaheng Zhang  
+*    [2023.12-2024.8] Visiting Ph.D. Student, Nanyang Technological University   
+  *    Supervisor: Prof. Yang Liu  
+*    [2016-2020] B.S. in Computer Science and Technology (_Honored Program_),  China Agricultural University (CAU)   
 
 
 ### Personal Life
-*    I enjoy sports, particularly running, and playing basketball with friends. </sub>
+*    I enjoy sports, particularly running, and playing basketball with friends.  
 
 ### Friend Links
 * [Xin Zhang](https://zhangxin00.github.io/)
