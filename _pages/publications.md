@@ -10,7 +10,9 @@ Please refer to the [Google Scholar](https://scholar.google.com/citations?user=b
 
 ## Preprints
 
-
+- <sub> [2025] **NaviDet: Efficient Input-level Backdoor Detection on Text-to-Image Synthesis via Neuron Activation Variation**  <br/>
+   **Shengfang Zhai**, Jiajun Li, Yue Liu, Huanran Chen, Zhihua Tian, Wenjie Qu, Qingni Shen, Ruoxi Jia, Yinpeng Dong, Jiaheng Zhang <br/>
+   [ArXiv](https://arxiv.org/abs/2503.06453)
 
 
 ## Conference
