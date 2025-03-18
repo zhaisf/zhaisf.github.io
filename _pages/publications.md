@@ -14,6 +14,10 @@ Please refer to the [Google Scholar](https://scholar.google.com/citations?user=b
    **Shengfang Zhai**, Jiajun Li, Yue Liu, Huanran Chen, Zhihua Tian, Wenjie Qu, Qingni Shen, Ruoxi Jia, Yinpeng Dong, Jiaheng Zhang <br/>
    [ArXiv](https://arxiv.org/abs/2503.06453)
 
+- <sub> [2025] **Life-Cycle Routing Vulnerabilities of LLM Router**  <br/>
+   Qiqi Lin, Xiaoyang Ji, **Shengfang Zhai**, Qingni Shen, Zhi Zhang, Yuejian Fang, Yansong Gao <br/>
+   [ArXiv](https://arxiv.org/abs/2503.08704)
+
 
 ## Conference
 
