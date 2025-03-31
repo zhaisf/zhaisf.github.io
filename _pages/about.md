@@ -22,6 +22,7 @@ I am currently a fifth-year Ph.D. student at Peking University and very fortunat
 
 
 ### News!
+- Our paper "Efficient Backdoor Detection on Text-to-image Synthesis via Neuron Activation Variation" has been accepted by **ICLR 2025 Workshop on Foundation Models in the Wild** ([FM-Wild](https://fm-wild-community.github.io/), accepted as a Tiny Paper). See you in Singapore!
 -  Our paper "Membership Inference on Text-to-Image Diffusion Models via Conditional Likelihood Discrepancy" has been accepted by **NeurIPS 2024**. See you in Vancouver! 
 -   I will serve as an **AEC member of CCS 2024**.
 -  Our paper "Text-to-image Diffusion Models Can be Easily Backdoored through Multimodal Data Poisoning" has been accepted by **ACM MM 2023 (<font color='red'>Oral</font>)**.
