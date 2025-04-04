@@ -38,7 +38,7 @@ I am currently a fifth-year Ph.D. student at Peking University and very fortunat
 
 *    Reviewer for Journals:
   
-     IEEE TPAMI, IEEE TNNLS, Elsevier Computer & Security,
+     IEEE TPAMI, IEEE TKDE, IEEE TIFS, IEEE TNNLS, Elsevier Computer & Security,
 
 *    Reviewer for Conferences: 
 
