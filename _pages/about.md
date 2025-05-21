@@ -16,7 +16,10 @@ I am currently a fifth-year Ph.D. student at Peking University and very fortunat
  
    I was a visiting Ph.D. student at the Nanyang Technological University advised by Prof. [Yang Liu](https://personal.ntu.edu.sg/yangliu/) from December 2023 to August 2024.
 
-  My research mainly focuses on Trustworthy AI. **Recently, I focus more on the security, privacy and copyright issues associated with generative models, particularly diffusion models and large language models (LLMs)**. Feel free to drop me an email if you are interested in our work, and I am always willing to work together on interesting projects with external collaborators.
+  My research mainly focuses on Trustworthy AI. **Recently, I focus more on the security, privacy and copyright issues associated with generative models, particularly diffusion models and large language models (LLMs)**. 
+  My research aims to reveal vulnerabilities in generative models by designing red-teaming methods, and to further develop targeted defense mechanisms to enhance trustworthy generation.
+  Feel free to drop me an email if you are interested in our work, and I am always willing to work together on interesting projects with external collaborators.
+
 
   <font color='red'>I am actively seeking for a researcher position starting in the winter of 2025. Please feel free to contact me at shengfang.zhai AT gmail.com.</font>
 
