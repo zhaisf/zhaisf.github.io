@@ -25,7 +25,7 @@ Please refer to the [Google Scholar](https://scholar.google.com/citations?user=b
 
 - <sub> [2025] **NaviDet: Efficient Input-level Backdoor Detection on Text-to-Image Synthesis via Neuron Activation Variation**  <br/>
    **Shengfang Zhai**, Jiajun Li, Yue Liu, Huanran Chen, Zhihua Tian, Wenjie Qu, Qingni Shen, Ruoxi Jia, Yinpeng Dong, Jiaheng Zhang <br/>
-   International Conference on Computer Vision (**ICCV**), Hawai'i, 2025 <br/> 
+   International Conference on Computer Vision (**ICCV**, **<font color='red'>Highlight</font>**), Hawai'i, 2025 <br/> 
    [ArXiv](https://arxiv.org/abs/2503.06453)
 
 - <sub> [2024] **Membership Inference on Text-to-Image Diffusion Models via Conditional Likelihood Discrepancy**  <br/>
@@ -36,7 +36,7 @@ Please refer to the [Google Scholar](https://scholar.google.com/citations?user=b
 
 - <sub> [2023] **Text-to-image diffusion models can be easily backdoored through multimodal data poisoning**   <br/>
    **Shengfang Zhai**, Yinpeng Dong, Qingni Shen, Shi Pu, Yuejian Fang, Hang Su <br/>
-   ACM International Conference on Multimedia (**MM** **<font color='red'>Oral</font>**), Ottawa, Canada, 2023 <br/>
+   ACM International Conference on Multimedia (**MM**, **<font color='red'>Oral</font>**), Ottawa, Canada, 2023 <br/>
   [ArXiv](https://arxiv.org/abs/2305.04175)
 
 - <sub> [2023] **NCL: Textual Backdoor Defense Using Noise-Augmented Contrastive Learning**  <br/>
