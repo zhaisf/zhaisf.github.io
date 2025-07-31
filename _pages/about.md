@@ -44,7 +44,7 @@ I am currently a fifth-year Ph.D. student at Peking University and very fortunat
 
 *    Reviewer for Conferences: 
 
-     NeurIPS, ICLR, CVPR, ACM MM, AAAI, ACL, AsiaCCS, 
+     NeurIPS, ICLR, CVPR, ICCV, ACM MM, AAAI, ACL, AsiaCCS, 
 
 ### Teaching
 *    Development of Artificial Intelligence Applications – Teaching Assistant, Spring 2023.
