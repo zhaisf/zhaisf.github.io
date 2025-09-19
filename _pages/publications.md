@@ -23,7 +23,7 @@ Please refer to the [Google Scholar](https://scholar.google.com/citations?user=b
 
 ## Conference
 
-- <sub> [2024] **GuardReasoner-VL: Safeguarding VLMs via Reinforced Reasoning**  <br/>
+- <sub> [2025] **GuardReasoner-VL: Safeguarding VLMs via Reinforced Reasoning**  <br/>
    Yue Liu, **Shengfang Zhai**, Mingzhe Du, Yulin Chen, Tri Cao, Hongcheng Gao, Cheng Wang, Xinfeng Li, Kun Wang, Junfeng Fang, Jiaheng Zhang, Bryan Hooi <br/>
    Advances in Neural Information Processing Systems (**NeurIPS**), 2025  <br/>
    [ArXiv](https://arxiv.org/abs/2505.11049)
