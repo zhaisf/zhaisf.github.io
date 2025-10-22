@@ -10,18 +10,15 @@ redirect_from:
 
 {% include base_path %}
 
+I am currently a research fellow at the National University of Singapore (NUS), working with Prof. [Jiaheng Zhang](https://zjhzjh123.github.io/). I received my Ph.D. degree from Peking University, advised by Prof. [Qingni Shen](https://ss.pku.edu.cn/teacherteam/teacherlist/1634-%E6%B2%88%E6%99%B4%E9%9C%93.html). 
+And I also collaborate closely with Prof. [Hang Su](https://www.suhangss.me/) and Dr. [Yinpeng Dong](https://ml.cs.tsinghua.edu.cn/~yinpeng/) from Tsinghua University.
  
-I am currently a fifth-year Ph.D. student at Peking University and very fortunate to be advised by Prof. [Qingni Shen](https://ss.pku.edu.cn/teacherteam/teacherlist/1634-%E6%B2%88%E6%99%B4%E9%9C%93.html). 
- I work closely with Prof. [Jiaheng Zhang](https://zjhzjh123.github.io/).  And I also collaborate closely with Prof. [Hang Su](https://www.suhangss.me/) and Dr. [Yinpeng Dong](https://ml.cs.tsinghua.edu.cn/~yinpeng/) from Tsinghua University.
- 
-   I was a visiting Ph.D. student at the Nanyang Technological University advised by Prof. [Yang Liu](https://personal.ntu.edu.sg/yangliu/) from December 2023 to August 2024.
+I was a visiting Ph.D. student at the Nanyang Technological University advised by Prof. [Yang Liu](https://personal.ntu.edu.sg/yangliu/) from December 2023 to August 2024.
 
   My research mainly focuses on Trustworthy AI. **Recently, I focus more on the security, privacy and copyright issues associated with generative models, particularly diffusion models and large language models (LLMs)**. 
   My research aims to reveal vulnerabilities in generative models by designing red-teaming methods, and to further develop targeted defense mechanisms to enhance trustworthy generation.
   Feel free to drop me an email if you are interested in our work, and I am always willing to work together on interesting projects with external collaborators.
 
-
-  <font color='red'>I am actively seeking for a researcher position starting in the winter of 2025. Please feel free to contact me at shengfang.zhai AT gmail.com.</font>
 
 
 ### News!
