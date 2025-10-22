@@ -17,6 +17,7 @@ I was a visiting Ph.D. student at the Nanyang Technological University advised b
 
   My research mainly focuses on Trustworthy AI. **Recently, I focus more on the security, privacy and copyright issues associated with generative models, particularly diffusion models and large language models (LLMs)**. 
   My research aims to reveal vulnerabilities in generative models by designing red-teaming methods, and to further develop targeted defense mechanisms to enhance trustworthy generation.
+  
   Feel free to drop me an email if you are interested in our work, and I am always willing to work together on interesting projects with external collaborators.
 
 
