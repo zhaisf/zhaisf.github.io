@@ -23,6 +23,10 @@ Please refer to the [Google Scholar](https://scholar.google.com/citations?user=b
 
 ## Conference
 
+- <sub> [2026] **Unshaken by Weak Embedding: Robust Probabilistic Watermarking for Dataset Copyright Protection**  <br/>
+   Shang Wang, Tianqing Zhu, Dayong Ye, Hua Ma, Bo Liu, Ming Ding, **Shengfang Zhai**, Yansong Gao <br/>
+   Network and Distributed System Security (NDSS) Symposium (**NDSS**), 2026  <br/>
+ 
 - <sub> [2025] **GuardReasoner-VL: Safeguarding VLMs via Reinforced Reasoning**  <br/>
    Yue Liu, **Shengfang Zhai**, Mingzhe Du, Yulin Chen, Tri Cao, Hongcheng Gao, Cheng Wang, Xinfeng Li, Kun Wang, Junfeng Fang, Jiaheng Zhang, Bryan Hooi <br/>
    Advances in Neural Information Processing Systems (**NeurIPS**), 2025  <br/>
@@ -37,7 +41,6 @@ Please refer to the [Google Scholar](https://scholar.google.com/citations?user=b
    **Shengfang Zhai**, Huanran Chen, Yinpeng Dong, Jiajun Li, Qingni Shen, Yansong Gao, Hang Su, Yang Liu <br/>
    Advances in Neural Information Processing Systems (**NeurIPS**), Vancouver, Canada, 2024  <br/>
    [ArXiv](https://arxiv.org/abs/2405.14800)
-
 
 - <sub> [2023] **Text-to-image diffusion models can be easily backdoored through multimodal data poisoning**   <br/>
    **Shengfang Zhai**, Yinpeng Dong, Qingni Shen, Shi Pu, Yuejian Fang, Hang Su <br/>
