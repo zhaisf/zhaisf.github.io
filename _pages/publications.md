@@ -12,9 +12,7 @@ Please refer to the [Google Scholar](https://scholar.google.com/citations?user=b
 
 
 
-- <sub> [2025] **Silent Leaks: Implicit Knowledge Extraction Attack on RAG Systems through Benign Queries**  <br/>
-   Yuhao Wang, Wenjie Qu, Yanze Jiang, Zichen Liu, Yue Liu, **Shengfang Zhai†**, Yinpeng Dong, Jiaheng Zhang <br/>
-   [ArXiv](https://arxiv.org/abs/2505.15420)
+
 
 - <sub> [2025] **Life-Cycle Routing Vulnerabilities of LLM Router**  <br/>
    Qiqi Lin, Xiaoyang Ji, **Shengfang Zhai†**, Qingni Shen, Zhi Zhang, Yuejian Fang, Yansong Gao <br/>
@@ -22,6 +20,11 @@ Please refer to the [Google Scholar](https://scholar.google.com/citations?user=b
 
 
 ## Conference
+
+- <sub> [2025] **Silent Leaks: Implicit Knowledge Extraction Attack on RAG Systems through Benign Queries**  <br/>
+   Yuhao Wang*, Wenjie Qu*, **Shengfang Zhai*†**, Yanze Jiang, Zichen Liu, Yue Liu,  Yinpeng Dong, Jiaheng Zhang <br/>
+   International Conference on Learning Representations (**ICLR**), 2026 <br/> 
+   [ArXiv](https://arxiv.org/abs/2505.15420)
 
 - <sub> [2026] **Unshaken by Weak Embedding: Robust Probabilistic Watermarking for Dataset Copyright Protection**  <br/>
    Shang Wang, Tianqing Zhu, Dayong Ye, Hua Ma, Bo Liu, Ming Ding, **Shengfang Zhai**, Yansong Gao <br/>
