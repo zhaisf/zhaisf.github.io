@@ -53,6 +53,7 @@ I was a visiting Ph.D. student at the Nanyang Technological University advised b
 *    ByteDance Security AI Challenge: Top 2% (Textual Adversarial Attack Track, 2022.10)
 
 ### Prestigious Awards
+*    [2025] Excellent Graduate, Peking University.
 *    [2023] Academic Innovation Award (Top 1%), Peking University. 
 *    [2023, 2021]  Shenzhen Stock Exchange Scholarship, Peking University.
 *    [2022]  Award for Academic Excellence, Peking University.
