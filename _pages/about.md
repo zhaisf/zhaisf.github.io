@@ -43,7 +43,7 @@ I was a visiting Ph.D. student at the Nanyang Technological University advised b
 
 *    Reviewer for Conferences: 
 
-     NeurIPS, ICLR, CVPR, ICCV, ACM MM, AAAI, ACL, AsiaCCS, 
+     NeurIPS, ICLR, ICML, CVPR, ICCV, ECCV, ACL, ACM MM, AAAI, AsiaCCS, 
 
 ### Teaching
 *    Development of Artificial Intelligence Applications – Teaching Assistant, Spring 2023.
