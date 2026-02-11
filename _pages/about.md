@@ -10,10 +10,10 @@ redirect_from:
 
 {% include base_path %}
 
-I am currently a research fellow at the National University of Singapore (NUS), working with Prof. [Jiaheng Zhang](https://zjhzjh123.github.io/). I received my Ph.D. degree from Peking University, advised by Prof. [Qingni Shen](https://ss.pku.edu.cn/teacherteam/teacherlist/1634-%E6%B2%88%E6%99%B4%E9%9C%93.html). 
-And I also collaborate closely with Prof. [Hang Su](https://www.suhangss.me/) and Prof. [Yinpeng Dong](https://ml.cs.tsinghua.edu.cn/~yinpeng/) from Tsinghua University.
+I am currently a research fellow at the National University of Singapore (NUS), working with Prof. [Jiaheng Zhang](https://zjhzjh123.github.io/). 
+I also collaborate closely with Prof. [Hang Su](https://scholar.google.com/citations?user=dxN1_X0AAAAJ&hl=zh-CN) and Prof. [Yinpeng Dong](https://dongyp13.github.io/) from Tsinghua University.
  
-I was a visiting Ph.D. student at the Nanyang Technological University advised by Prof. [Yang Liu](https://personal.ntu.edu.sg/yangliu/) from December 2023 to August 2024.
+I received my Ph.D. degree from Peking University, advised by Prof. [Qingni Shen](https://ss.pku.edu.cn/teacherteam/teacherlist/1634-%E6%B2%88%E6%99%B4%E9%9C%93.html). And I was a visiting Ph.D. student at the Nanyang Technological University, advised by Prof. [Yang Liu](https://personal.ntu.edu.sg/yangliu/) from December 2023 to August 2024.
 
   My research mainly focuses on Trustworthy AI. **Recently, I focus more on the security, privacy and copyright issues associated with generative models, such as diffusion models, large language models, and the agentic systems based on them.** 
   My research aims to reveal vulnerabilities by red-teaming these cutting-edge models, and to further develop targeted defense mechanisms to enhance trustworthy generation.
