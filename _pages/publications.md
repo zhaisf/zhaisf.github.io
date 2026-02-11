@@ -11,7 +11,9 @@ Please refer to the [Google Scholar](https://scholar.google.com/citations?user=b
 ## Preprints
 
 
-
+- <sub> [2026] **MemPot: Defending Against Memory Extraction Attack with Optimized Honeypots** <br/>
+   Yuhao Wang, **Shengfang Zhai†**, Guanghao Jin, Yinpeng Dong, Linyi Yang, Jiaheng Zhang <br/>
+   [ArXiv](https://arxiv.org/abs/2602.07517v1)
 
 
 - <sub> [2025] **Life-Cycle Routing Vulnerabilities of LLM Router**  <br/>
