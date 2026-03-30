@@ -16,6 +16,11 @@ Please refer to the [Google Scholar](https://scholar.google.com/citations?user=b
    [ArXiv](https://arxiv.org/abs/2602.07517v1)
 
 
+- <sub> [2026] **Purify Once, Edit Freely: Breaking Image Protections under Model Mismatch** <br/>
+   Qichen Zhao, **Shengfang Zhai†**, Xinjian Bai, Qingni Shen, Qiqi Lin, Yansong Gao, Zhonghai Wu <br/>
+   [ArXiv](https://arxiv.org/abs/2603.13028)
+
+
 - <sub> [2025] **Life-Cycle Routing Vulnerabilities of LLM Router**  <br/>
    Qiqi Lin, Xiaoyang Ji, **Shengfang Zhai†**, Qingni Shen, Zhi Zhang, Yuejian Fang, Yansong Gao <br/>
    [ArXiv](https://arxiv.org/abs/2503.08704)
