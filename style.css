@@ -1,0 +1,545 @@
+/* ============================================================
+   Personal Homepage Stylesheet
+   ------------------------------------------------------------
+   Structure:
+     1. Design Tokens (CSS variables)
+     2. Base & Reset
+     3. Layout Primitives (container, grid)
+     4. Navigation
+     5. Hero / About
+     6. Section Shell (titles, spacing)
+     7. News
+     8. Publications
+     9. Lists (Service, Awards, Bio, etc.)
+    10. Footer
+    11. Responsive
+   ============================================================ */
+
+
+/* ===== 1. Design Tokens ===== */
+:root {
+    /* Colors */
+    --color-bg:              #fafafa;
+    --color-bg-alt:          #ffffff;
+    --color-text:            #2c2c2c;
+    --color-text-muted:      #374151;
+    --color-text-secondary:  #6b7280;
+    --color-accent:          #2563eb;
+    --color-accent-hover:    #1d4ed8;
+    --color-accent-light:    #dbeafe;
+    --color-border:          #e5e7eb;
+    --color-highlight:       #dc2626;   /* red — reserved for top-tier emphasis (Oral) */
+    --color-warm:            #c2410c;   /* orange — secondary emphasis (Highlight) */
+
+    /* Badge palettes */
+    --badge-conf-bg:         #eff6ff;
+    --badge-conf-fg:         #1e40af;
+    --badge-preprint-bg:     #f3f4f6;
+    --badge-preprint-fg:     #6b7280;
+    --badge-oral-bg:         #fef2f2;   /* red-tinted — Oral (top tier) */
+    --badge-oral-fg:         #dc2626;
+    --badge-highlight-bg:    #fff7ed;   /* orange-tinted — Highlight */
+    --badge-highlight-fg:    #c2410c;
+
+    /* Typography */
+    --font-sans: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    --font-serif: 'Crimson Pro', 'Georgia', 'Times New Roman', serif;
+
+    /* Layout */
+    --max-width: 860px;
+    --nav-height: 56px;
+    --photo-w: 120px;
+    --photo-h: 200px;           /* 3:5 aspect ratio */
+    --photo-w-mobile: 100px;
+    --photo-h-mobile: 167px;
+}
+
+
+/* ===== 2. Base & Reset ===== */
+*, *::before, *::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+    scroll-padding-top: calc(var(--nav-height) + 24px);
+}
+
+body {
+    font-family: var(--font-sans);
+    color: var(--color-text);
+    background: var(--color-bg);
+    line-height: 1.65;
+    font-size: 17px;
+    -webkit-font-smoothing: antialiased;
+}
+
+a {
+    color: var(--color-accent);
+    text-decoration: none;
+    transition: color 0.2s;
+}
+
+a:hover {
+    color: var(--color-accent-hover);
+}
+
+strong {
+    font-weight: 600;
+}
+
+
+/* ===== 3. Layout Primitives ===== */
+.container {
+    max-width: var(--max-width);
+    margin: 0 auto;
+    padding: 0 24px;
+}
+
+
+/* ===== 4. Navigation ===== */
+.nav {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: var(--nav-height);
+    background: rgba(255, 255, 255, 0.85);
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    border-bottom: 1px solid var(--color-border);
+    z-index: 100;
+}
+
+.nav-inner {
+    max-width: var(--max-width);
+    margin: 0 auto;
+    padding: 0 24px;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.nav-name {
+    font-weight: 600;
+    font-size: 16px;
+    color: var(--color-text);
+    letter-spacing: -0.02em;
+}
+
+.nav-links {
+    display: flex;
+    gap: 28px;
+}
+
+.nav-links a {
+    font-size: 14px;
+    color: var(--color-text-secondary);
+    font-weight: 450;
+    transition: color 0.2s;
+}
+
+.nav-links a:hover {
+    color: var(--color-text);
+}
+
+
+/* ===== 5. Hero / About ===== */
+.hero {
+    padding-top: calc(var(--nav-height) + 12px);
+    padding-bottom: 48px;
+    background: var(--color-bg-alt);
+}
+
+.hero-header {
+    margin-bottom: 28px;
+}
+
+.hero-header h1 {
+    font-family: var(--font-serif);
+    font-size: 40px;
+    font-weight: 600;
+    letter-spacing: -0.01em;
+    line-height: 1.2;
+    margin-bottom: 4px;
+    color: var(--color-text);
+}
+
+.hero-content {
+    display: flex;
+    gap: 36px;
+    align-items: flex-start;
+}
+
+.hero-photo {
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 12px;
+}
+
+.hero-photo img {
+    width: var(--photo-w);
+    height: var(--photo-h);
+    border-radius: 4px;
+    object-fit: cover;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+}
+
+.title {
+    font-size: 15px;
+    color: var(--color-text-secondary);
+    font-weight: 450;
+}
+
+.bio {
+    font-size: 16px;
+    line-height: 1.7;
+    color: var(--color-text-muted);
+    margin-bottom: 12px;
+}
+
+.bio:last-child {
+    margin-bottom: 0;
+}
+
+.social-links {
+    display: flex;
+    gap: 8px;
+}
+
+.social-links a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 32px;
+    height: 32px;
+    border-radius: 4px;
+    background: var(--color-bg);
+    color: var(--color-text-secondary);
+    font-size: 14px;
+    transition: color 0.15s, border-color 0.15s;
+    border: 1px solid var(--color-border);
+}
+
+.social-links a:hover {
+    color: var(--color-accent);
+    border-color: var(--color-accent);
+}
+
+
+/* ===== 6. Section Shell ===== */
+.section {
+    padding: 48px 0;
+}
+
+.section-alt {
+    background: var(--color-bg-alt);
+}
+
+.section-title {
+    font-family: var(--font-serif);
+    font-size: 24px;
+    font-weight: 600;
+    letter-spacing: -0.01em;
+    margin-bottom: 22px;
+    padding-bottom: 8px;
+    border-bottom: 1px solid var(--color-border);
+    display: block;
+}
+
+.section-title-spaced {
+    margin-top: 40px;
+}
+
+.section-subtitle {
+    font-size: 13.5px;
+    color: var(--color-text-secondary);
+    margin-top: -16px;
+    margin-bottom: 28px;
+}
+
+
+/* ===== 7. News ===== */
+/* Scrollable container: shows ~4 items, rest accessed via scroll */
+.news-list {
+    display: flex;
+    flex-direction: column;
+    max-height: 188px;              /* ~4 rows of .news-item */
+    overflow-y: auto;
+    padding-right: 8px;             /* breathing room for scrollbar */
+    border-top: 1px solid var(--color-border);
+}
+
+/* Slim custom scrollbar */
+.news-list::-webkit-scrollbar {
+    width: 6px;
+}
+.news-list::-webkit-scrollbar-track {
+    background: transparent;
+}
+.news-list::-webkit-scrollbar-thumb {
+    background: var(--color-border);
+    border-radius: 3px;
+}
+.news-list::-webkit-scrollbar-thumb:hover {
+    background: var(--color-text-secondary);
+}
+.news-list {
+    scrollbar-width: thin;
+    scrollbar-color: var(--color-border) transparent;
+}
+
+.news-item {
+    display: flex;
+    gap: 16px;
+    padding: 10px 0;
+    border-bottom: 1px solid var(--color-border);
+    font-size: 14.5px;
+    align-items: baseline;
+}
+
+.news-item:last-child {
+    border-bottom: none;
+}
+
+.news-date {
+    flex-shrink: 0;
+    width: 72px;
+    font-size: 13px;
+    font-weight: 600;
+    color: var(--color-accent);
+    font-variant-numeric: tabular-nums;
+}
+
+.news-text {
+    color: var(--color-text-muted);
+}
+
+.highlight {
+    color: var(--color-highlight);
+    font-weight: 600;
+}
+
+
+/* ===== 8. Publications ===== */
+.pub-year {
+    font-family: var(--font-serif);
+    font-size: 18px;
+    font-weight: 600;
+    color: var(--color-text);
+    margin-top: 28px;
+    margin-bottom: 12px;
+    letter-spacing: 0.01em;
+}
+
+.pub-year:first-of-type {
+    margin-top: 4px;
+}
+
+/* Card-style publication item */
+.pub-item {
+    padding: 14px 16px;
+    margin-bottom: 10px;
+    border: 1px solid var(--color-border);
+    border-radius: 4px;
+    background: var(--color-bg-alt);
+}
+
+.pub-item:last-child {
+    margin-bottom: 0;
+}
+
+.pub-title {
+    font-family: var(--font-serif);
+    font-size: 19px;
+    font-weight: 600;
+    color: var(--color-text);
+    line-height: 1.4;
+    margin-bottom: 5px;
+}
+
+.pub-meta {
+    font-size: 14px;
+    color: var(--color-accent);
+    font-weight: 500;
+    margin-bottom: 4px;
+    font-variant-numeric: tabular-nums;
+}
+
+.pub-venue {
+    color: var(--color-accent);
+    font-weight: 500;
+    font-style: normal;
+}
+
+.pub-tag {
+    display: inline-block;
+    margin-left: 6px;
+    padding: 1px 6px;
+    font-size: 11px;
+    font-weight: 600;
+    color: var(--badge-oral-fg);
+    border: 1px solid var(--badge-oral-fg);
+    border-radius: 2px;
+    letter-spacing: 0.02em;
+    vertical-align: 1px;
+}
+
+.pub-authors {
+    font-size: 14.5px;
+    color: var(--color-text-secondary);
+    line-height: 1.55;
+    margin-bottom: 6px;
+}
+
+.pub-authors strong {
+    color: var(--color-text);
+}
+
+.pub-links {
+    display: flex;
+    gap: 10px;
+}
+
+.pub-links a {
+    font-size: 13px;
+    font-weight: 500;
+    color: var(--color-text-secondary);
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
+    padding: 1px 0;
+    border-bottom: 1px solid transparent;
+    transition: color 0.15s, border-color 0.15s;
+}
+
+.pub-links a:hover {
+    color: var(--color-accent);
+    border-bottom-color: var(--color-accent);
+}
+
+
+/* ===== 9. Lists (Service, Awards, Bio, etc.) ===== */
+.service-list {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.service-list li {
+    font-size: 15px;
+    color: var(--color-text-muted);
+    padding-left: 16px;
+    position: relative;
+}
+
+.service-list li::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 10px;
+    width: 5px;
+    height: 5px;
+    border-radius: 50%;
+    background: var(--color-accent);
+}
+
+
+/* ===== 10. Footer ===== */
+.footer {
+    padding: 28px 0;
+    text-align: center;
+    font-size: 13px;
+    color: var(--color-text-secondary);
+    border-top: 1px solid var(--color-border);
+}
+
+/* Visitor map (ClustrMaps widget wrapper) */
+.visitor-map {
+    margin-bottom: 24px;
+    padding-bottom: 24px;
+    border-bottom: 1px solid var(--color-border);
+}
+
+.visitor-label {
+    font-family: var(--font-serif);
+    font-size: 14px;
+    font-weight: 500;
+    color: var(--color-text-secondary);
+    margin-bottom: 10px;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+}
+
+.visitor-map-frame {
+    display: inline-block;
+    width: 252px;              /* 240 map + 2*6 padding */
+    padding: 6px;
+    border: 1px solid var(--color-border);
+    border-radius: 4px;
+    background: var(--color-bg-alt);
+    opacity: 0.85;
+    transition: opacity 0.2s;
+    line-height: 0;
+    overflow: hidden;
+}
+
+.visitor-map-frame:hover {
+    opacity: 1;
+}
+
+/* Force everything injected by ClustrMaps to fit our frame */
+.visitor-map-frame * {
+    max-width: 240px !important;
+    box-sizing: border-box;
+}
+
+.visitor-map-frame img {
+    display: block;
+    width: 240px;
+    height: auto;
+}
+
+
+/* ===== 11. Responsive ===== */
+@media (max-width: 768px) {
+    .hero-content {
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+
+    .hero-photo img {
+        width: var(--photo-w-mobile);
+        height: var(--photo-h-mobile);
+    }
+
+    .hero-header h1 {
+        font-size: 32px;
+    }
+
+    .nav-links {
+        gap: 16px;
+    }
+
+    .nav-links a {
+        font-size: 13px;
+    }
+}
+
+@media (max-width: 480px) {
+    .news-item {
+        flex-direction: column;
+        gap: 2px;
+    }
+
+    .news-date {
+        width: auto;
+    }
+}

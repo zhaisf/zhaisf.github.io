@@ -1,0 +1,304 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shengfang Zhai - Personal Homepage</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Crimson+Pro:wght@400;500;600;700&family=Noto+Serif+SC:wght@400;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<!--
+  ============================================================
+  Personal Homepage — Shengfang Zhai
+  ------------------------------------------------------------
+  Editing guide:
+    * All styles live in style.css — do not add inline styles.
+    * To edit TEXT, look for the <!-- EDIT: ... --> markers.
+    * Each publication is a single .pub-item block — copy one to add.
+    * Badges: class="conf" (blue), "preprint" (grey),
+              "oral-badge" (red, top tier), "highlight-badge" (orange).
+  ============================================================
+-->
+
+<!-- Navigation -->
+<nav class="nav">
+    <div class="nav-inner">
+        <a href="#" class="nav-name"></a>
+        <div class="nav-links">
+            <a href="#about">About</a>
+            <a href="#news">News</a>
+            <a href="#publications">Publications</a>
+            <a href="#service">Service</a>
+        </div>
+    </div>
+</nav>
+
+<!-- EDIT: Hero / About — photo, name, bio paragraphs -->
+<header id="about" class="hero">
+    <div class="container">
+        <div class="hero-header">
+            <h1>Shengfang ZHAI</h1>
+            <p class="title">Research Fellow @ National University of Singapore</p>
+        </div>
+        <div class="hero-content">
+            <div class="hero-photo">
+                <img src="photo.jpg" alt="Shengfang Zhai">
+                <div class="social-links">
+                    <a href="mailto:shengfang.zhai@gmail.com" title="Email"><i class="fas fa-envelope"></i></a>
+                    <a href="https://scholar.google.com/citations?user=bJYY-tIAAAAJ&hl=en" target="_blank" title="Google Scholar"><i class="fas fa-graduation-cap"></i></a>
+                    <a href="https://github.com/zhaisf" target="_blank" title="GitHub"><i class="fab fa-github"></i></a>
+                </div>
+            </div>
+            <div class="hero-text">
+                <p class="bio">
+                    I am currently a Research Fellow at the National University of Singapore (NUS), working with
+                    <a href="https://zjhzjh123.github.io/" target="_blank">Prof. Jiaheng Zhang</a>.
+                    I also collaborate closely with <a href="https://www.suhangss.me/" target="_blank">Prof. Hang Su</a>
+                    and <a href="https://dongyp13.github.io/" target="_blank">Prof. Yinpeng Dong</a> from Tsinghua University.
+                </p>
+                <p class="bio">
+                    I received my Ph.D. degree from <a href="https://www.pku.edu.cn/" target="_blank">Peking University</a>,
+                    advised by <a href="https://cs.pku.edu.cn/info/1085/1711.htm" target="_blank">Prof. Qingni Shen</a>.
+                    And I was a visiting Ph.D. student at the
+                    <a href="https://www.ntu.edu.sg/" target="_blank">Nanyang Technological University</a>,
+                    advised by <a href="https://personal.ntu.edu.sg/yangliu/" target="_blank">Prof. Yang Liu</a>
+                    from December 2023 to August 2024.
+                </p>
+                <p class="bio">
+                    My research mainly focuses on Trustworthy AI. Recently, I focus more on the <strong>security, privacy
+                    and copyright issues associated with generative models, such as diffusion (language) models (DMs / DLMs), large language models (LLMs),
+                    and the agentic systems based on them</strong>. My research aims to reveal vulnerabilities of these
+                    cutting-edge models, and to further develop targeted defense mechanisms to enhance trustworthy generation.
+                </p>
+                <p class="bio">
+                    <em>Feel free to drop me an email if you are interested in our work, and I am always willing to work
+                    together on interesting projects with external collaborators.</em>
+                </p>
+            </div>
+        </div>
+    </div>
+</header>
+
+<!-- EDIT: News — each item is one .news-item row -->
+<section id="news" class="section">
+    <div class="container">
+        <h2 class="section-title">News 📣</h2>
+        <div class="news-list">
+            <div class="news-item">
+                <span class="news-date">2026.01</span>
+                <span class="news-text">One paper accepted to <strong>ICLR 2026</strong> on implicit knowledge extraction attacks on RAG / Agentic systems.</span>
+            </div>
+            <div class="news-item">
+                <span class="news-date">2026.01</span>
+                <span class="news-text">One paper accepted to <strong>NDSS 2026</strong> on robust probabilistic watermarking for dataset copyright.</span>
+            </div>
+            <div class="news-item">
+                <span class="news-date">2025.09</span>
+                <span class="news-text">One paper accepted to <strong>NeurIPS 2025</strong> on safeguarding VLMs via reinforced reasoning.</span>
+            </div>
+            <div class="news-item">
+                <span class="news-date">2025.06</span>
+                <span class="news-text">One paper accepted to <strong>ICCV 2025</strong> as <span class="highlight">Highlight</span> (~2.3% acceptance rate).</span>
+            </div>
+            <div class="news-item">
+                <span class="news-date">2024.09</span>
+                <span class="news-text">One paper accepted to <strong>NeurIPS 2024</strong> on membership inference attacks on diffusion models.</span>
+            </div>
+            <div class="news-item">
+                <span class="news-date">2023.07</span>
+                <span class="news-text">One paper accepted to <strong>ACM MM 2023</strong> as <span class="highlight">Oral</span> presentation.</span>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- EDIT: Publications — grouped by year; copy a .pub-item block to add -->
+<section id="publications" class="section section-alt">
+    <div class="container">
+        <h2 class="section-title">Selected Publications</h2>
+        <p class="section-subtitle">* co-first author, &dagger; corresponding author. Full list on <a href="https://scholar.google.com/citations?user=bJYY-tIAAAAJ&hl=en" target="_blank">Google Scholar</a>.</p>
+
+        <!-- Preprints -->
+        <h3 class="pub-year">Preprints</h3>
+
+        <div class="pub-item">
+            <div class="pub-title">Purify Once, Edit Freely: Breaking Image Protections under Model Mismatch</div>
+            <div class="pub-meta">2026.03</div>
+            <div class="pub-authors">Qichen Zhao, <strong>Shengfang Zhai</strong><sup>&dagger;</sup>, Xinjian Bai, Qingni Shen, Qiqi Lin, Yansong Gao, Zhonghai Wu</div>
+            <div class="pub-links">
+                <a href="https://arxiv.org/abs/2603.13028" target="_blank"><i class="fas fa-file-pdf"></i> Paper</a>
+            </div>
+        </div>
+
+        <div class="pub-item">
+            <div class="pub-title">MemPot: Defending Against Memory Extraction Attack with Optimized Honeypots</div>
+            <div class="pub-meta">2026.02</div>
+            <div class="pub-authors">Yuhao Wang, <strong>Shengfang Zhai</strong><sup>&dagger;</sup>, Guanghao Jin, Yinpeng Dong, Linyi Yang, Jiaheng Zhang</div>
+            <div class="pub-links">
+                <a href="https://arxiv.org/abs/2602.07517v1" target="_blank"><i class="fas fa-file-pdf"></i> Paper</a>
+            </div>
+        </div>
+
+        <div class="pub-item">
+            <div class="pub-title">Life-Cycle Routing Vulnerabilities of LLM Router</div>
+            <div class="pub-meta">2025.03</div>
+            <div class="pub-authors">Qiqi Lin, Xiaoyang Ji, <strong>Shengfang Zhai</strong><sup>&dagger;</sup>, Qingni Shen, Zhi Zhang, Yuejian Fang, Yansong Gao</div>
+            <div class="pub-links">
+                <a href="https://arxiv.org/abs/2503.08704" target="_blank"><i class="fas fa-file-pdf"></i> Paper</a>
+            </div>
+        </div>
+
+        <!-- Conferences (reverse chronological) -->
+        <h3 class="pub-year">Conferences</h3>
+
+        <div class="pub-item">
+            <div class="pub-title">Silent Leaks: Implicit Knowledge Extraction Attack on RAG Systems through Benign Queries</div>
+            <div class="pub-meta"><em class="pub-venue">ICLR</em> 2026</div>
+            <div class="pub-authors">Yuhao Wang*, Wenjie Qu*, <strong>Shengfang Zhai</strong>*<sup>&dagger;</sup>, Yanze Jiang, Zichen Liu, Yue Liu, Yinpeng Dong, Jiaheng Zhang</div>
+            <div class="pub-links">
+                <a href="https://arxiv.org/abs/2505.15420" target="_blank"><i class="fas fa-file-pdf"></i> Paper</a>
+            </div>
+        </div>
+
+        <div class="pub-item">
+            <div class="pub-title">Unshaken by Weak Embedding: Robust Probabilistic Watermarking for Dataset Copyright Protection</div>
+            <div class="pub-meta"><em class="pub-venue">NDSS</em> 2026</div>
+            <div class="pub-authors">Shang Wang, Tianqing Zhu, Dayong Ye, Hua Ma, Bo Liu, Ming Ding, <strong>Shengfang Zhai</strong>, Yansong Gao</div>
+        </div>
+
+        <div class="pub-item">
+            <div class="pub-title">GuardReasoner-VL: Safeguarding VLMs via Reinforced Reasoning</div>
+            <div class="pub-meta"><em class="pub-venue">NeurIPS</em> 2025</div>
+            <div class="pub-authors">Yue Liu, <strong>Shengfang Zhai</strong>, Mingzhe Du, Yulin Chen, Tri Cao, Hongcheng Gao, Cheng Wang, Xinfeng Li, Kun Wang, Junfeng Fang, Jiaheng Zhang, Bryan Hooi</div>
+            <div class="pub-links">
+                <a href="https://arxiv.org/abs/2505.11049" target="_blank"><i class="fas fa-file-pdf"></i> Paper</a>
+            </div>
+        </div>
+
+        <div class="pub-item">
+            <div class="pub-title">Efficient Input-level Backdoor Defense on Text-to-Image Synthesis via Neuron Activation Variation</div>
+            <div class="pub-meta"><em class="pub-venue">ICCV</em> 2025 <span class="pub-tag">Highlight (~2.3% acceptance rate)</span></div>
+            <div class="pub-authors"><strong>Shengfang Zhai</strong>, Jiajun Li, Yue Liu, Huanran Chen, Zhihua Tian, Wenjie Qu, Qingni Shen, Ruoxi Jia, Yinpeng Dong, Jiaheng Zhang</div>
+            <div class="pub-links">
+                <a href="https://arxiv.org/abs/2503.06453" target="_blank"><i class="fas fa-file-pdf"></i> Paper</a>
+            </div>
+        </div>
+
+        <div class="pub-item">
+            <div class="pub-title">Membership Inference on Text-to-Image Diffusion Models via Conditional Likelihood Discrepancy</div>
+            <div class="pub-meta"><em class="pub-venue">NeurIPS</em> 2024</div>
+            <div class="pub-authors"><strong>Shengfang Zhai</strong>, Huanran Chen, Yinpeng Dong, Jiajun Li, Qingni Shen, Yansong Gao, Hang Su, Yang Liu</div>
+            <div class="pub-links">
+                <a href="https://arxiv.org/abs/2405.14800" target="_blank"><i class="fas fa-file-pdf"></i> Paper</a>
+            </div>
+        </div>
+
+        <div class="pub-item">
+            <div class="pub-title">Text-to-Image Diffusion Models Can Be Easily Backdoored through Multimodal Data Poisoning</div>
+            <div class="pub-meta"><em class="pub-venue">ACM MM</em> 2023 <span class="pub-tag">Oral</span></div>
+            <div class="pub-authors"><strong>Shengfang Zhai</strong>, Yinpeng Dong, Qingni Shen, Shi Pu, Yuejian Fang, Hang Su</div>
+            <div class="pub-links">
+                <a href="https://arxiv.org/abs/2305.04175" target="_blank"><i class="fas fa-file-pdf"></i> Paper</a>
+            </div>
+        </div>
+
+        <div class="pub-item">
+            <div class="pub-title">NCL: Textual Backdoor Defense Using Noise-Augmented Contrastive Learning</div>
+            <div class="pub-meta"><em class="pub-venue">ICASSP</em> 2023</div>
+            <div class="pub-authors"><strong>Shengfang Zhai</strong>, Qingni Shen, Xiaoyi Chen, Weilong Wang, Cong Li, Yuejian Fang, Zhonghai Wu</div>
+            <div class="pub-links">
+                <a href="https://arxiv.org/abs/2303.01742" target="_blank"><i class="fas fa-file-pdf"></i> Paper</a>
+            </div>
+        </div>
+
+        <div class="pub-item">
+            <div class="pub-title">Kallima: A Clean-Label Framework for Textual Backdoor Attacks</div>
+            <div class="pub-meta"><em class="pub-venue">ESORICS</em> 2022</div>
+            <div class="pub-authors">Xiaoyi Chen, Yinpeng Dong, Zeyu Sun, <strong>Shengfang Zhai</strong>, Qingni Shen, Zhonghai Wu</div>
+            <div class="pub-links">
+                <a href="https://arxiv.org/abs/2206.01832" target="_blank"><i class="fas fa-file-pdf"></i> Paper</a>
+            </div>
+        </div>
+
+        <div class="pub-item">
+            <div class="pub-title">Automated Extraction of ABAC Policies from Natural-Language Documents in Healthcare Systems</div>
+            <div class="pub-meta"><em class="pub-venue">IEEE BIBM</em> 2022</div>
+            <div class="pub-authors">Yutang Xia, <strong>Shengfang Zhai</strong>, Qinting Wang, Huiting Hou, Zhonghai Wu, Qingni Shen</div>
+            <div class="pub-links">
+                <a href="https://ieeexplore.ieee.org/abstract/document/9995559/" target="_blank"><i class="fas fa-file-pdf"></i> Paper</a>
+            </div>
+        </div>
+
+    </div>
+</section>
+
+<!-- EDIT: Service / Awards / Teaching / Bio / Personal / Friends -->
+<section id="service" class="section">
+    <div class="container">
+        <h2 class="section-title">Professional Service</h2>
+        <ul class="service-list">
+            <li><strong>Committee Members:</strong> CCS AEC 2024</li>
+            <li><strong>Reviewer for Journals:</strong> IEEE TPAMI, IEEE TKDE, IEEE TIFS, IEEE TNNLS, Elsevier Computer &amp; Security</li>
+            <li><strong>Reviewer for Conferences:</strong> NeurIPS, ICLR, ICML, CVPR, ICCV, ECCV, ACL, ACM MM, AAAI, AsiaCCS</li>
+        </ul>
+
+        <h2 class="section-title section-title-spaced">Prestigious Awards</h2>
+        <ul class="service-list">
+            <li>[2025] Excellent Graduate, Peking University.</li>
+            <li>[2023] Academic Innovation Award (Top 1%), Peking University.</li>
+            <li>[2023, 2021] Shenzhen Stock Exchange Scholarship, Peking University.</li>
+            <li>[2022] Award for Academic Excellence, Peking University.</li>
+            <li>[2021] Merit Student, Peking University.</li>
+        </ul>
+
+        <h2 class="section-title section-title-spaced">Teaching</h2>
+        <ul class="service-list">
+            <li>Development of Artificial Intelligence Applications &ndash; Teaching Assistant, Spring 2023.</li>
+        </ul>
+
+        <h2 class="section-title section-title-spaced">Competitions</h2>
+        <ul class="service-list">
+            <li>ByteDance Security AI Challenge: Top 2% (Textual Adversarial Attack Track, 2022.10).</li>
+        </ul>
+
+        <h2 class="section-title section-title-spaced">Bio</h2>
+        <ul class="service-list">
+            <li>[2020-2025] Ph.D. Student in Software Engineering, Peking University. Supervisor: Prof. Qingni Shen</li>
+            <li>[2023.12-2024.8] Visiting Ph.D. Student, Nanyang Technological University. Supervisor: Prof. Yang Liu</li>
+            <li>[2016-2020] B.S. in Computer Science and Technology (Honored Program), China Agricultural University (CAU)</li>
+        </ul>
+
+        <h2 class="section-title section-title-spaced">Personal Life</h2>
+        <ul class="service-list">
+            <li>Enjoys sports, particularly running, and playing basketball with friends.</li>
+        </ul>
+
+        <h2 class="section-title section-title-spaced">Friend Links</h2>
+        <ul class="service-list">
+            <li><a href="https://zhangxin00.github.io/" target="_blank">Xin Zhang</a></li>
+            <li><a href="https://liang-junkai.github.io/" target="_blank">Junkai Liang</a></li>
+        </ul>
+    </div>
+</section>
+
+<!-- Footer -->
+<footer class="footer">
+    <div class="container">
+        <!-- Visitor map (ClustrMaps — JS version, official recommendation) -->
+        <div class="visitor-map">
+            <p class="visitor-label">Visitors</p>
+            <div class="visitor-map-frame">
+                <script type="text/javascript" id="clustrmaps" src="https://clustrmaps.com/map_v2.js?d=sQ_uaFUl2xgAnUmT28_f4SQqXGOD6XT5ob8J6uVdYc4&cl=ffffff&w=240"></script>
+            </div>
+        </div>
+        <p>&copy; 2025 Shengfang Zhai. Last updated: April 2026.</p>
+    </div>
+</footer>
+
+</body>
+</html>
