@@ -369,5 +369,20 @@
     </div>
 </footer>
 
+<!-- News list: remove the bottom fade once scrolled to the end -->
+<script>
+    (function () {
+        var list = document.querySelector('.news-list');
+        if (!list) return;
+        function update() {
+            var atEnd = list.scrollTop + list.clientHeight >= list.scrollHeight - 2;
+            list.classList.toggle('at-end', atEnd);
+        }
+        list.addEventListener('scroll', update, { passive: true });
+        window.addEventListener('resize', update);
+        update();
+    })();
+</script>
+
 </body>
 </html>

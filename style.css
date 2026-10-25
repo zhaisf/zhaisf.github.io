@@ -265,14 +265,23 @@ strong {
 
 
 /* ===== 7. News ===== */
-/* Scrollable container: shows ~4 items, rest accessed via scroll */
+/* Scrollable container: shows ~5 items, rest accessed via scroll */
 .news-list {
     display: flex;
     flex-direction: column;
-    max-height: 188px;              /* ~4 rows of .news-item */
+    max-height: 280px;              /* ~5 rows of .news-item */
     overflow-y: auto;
     padding-right: 8px;             /* breathing room for scrollbar */
     border-top: 1px solid var(--color-border);
+    /* Fade out the bottom edge to hint there is more to scroll */
+    -webkit-mask-image: linear-gradient(to bottom, #000 calc(100% - 40px), transparent);
+    mask-image: linear-gradient(to bottom, #000 calc(100% - 40px), transparent);
+}
+
+/* Drop the fade once scrolled to the end (toggled in index.html) */
+.news-list.at-end {
+    -webkit-mask-image: none;
+    mask-image: none;
 }
 
 /* Slim custom scrollbar */
@@ -545,6 +554,10 @@ strong {
 }
 
 @media (max-width: 480px) {
+    .news-list {
+        max-height: 360px;
+    }
+
     .news-item {
         flex-direction: column;
         gap: 2px;
